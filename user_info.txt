@@ -1,0 +1,3 @@
+login: computer@gmail.com
+password: comp1234
+photo: /home/adiko/OWN/Python/ITCBOOTCAMP/lesson9_workfile/моргенштерн.png

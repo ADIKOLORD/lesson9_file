@@ -1,0 +1,32 @@
+
+Login: telephone@gmail.com
+password: smart1234
+
+Login: Computer@gmail.com
+password: comp54321
+
+Login: Iphone@gmail.com
+password: iphone15
+
+
+Login: telephone@gmail.com
+password: smart1234
+
+Login: Computer@gmail.com
+password: comp54321
+
+Login: Iphone@gmail.com
+password: iphone15
+
+
+Login: telephone@gmail.com
+password: smart1234
+
+Login: Computer@gmail.com
+password: comp54321
+
+Login: Iphone@gmail.com
+password: iphone15
+
+Login: newuser@gmail.com
+password: newpass123
